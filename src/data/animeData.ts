@@ -1,0 +1,133 @@
+export interface AnimeItem {
+  id: string;
+  malId: number; // MyAnimeList ID for Jikan API
+  title: string;
+  genre: string;
+  coverUrl: string; // fallback
+  iconicSongOrStyle: string;
+  synopsis: string;
+  color: string;
+}
+
+export const ANIME_LIST: AnimeItem[] = [
+  {
+    id: 'anime-demon-slayer',
+    malId: 38000,
+    title: 'Demon Slayer',
+    genre: 'Acción / Shonen',
+    coverUrl: 'https://cdn.myanimelist.net/images/anime/1286/99889.jpg',
+    iconicSongOrStyle: 'Gurenge • Kamado Tanjiro no Uta (Rock + Orquestal)',
+    synopsis: 'Tanjiro lucha contra demonios para curar a su hermana Nezuko.',
+    color: '#ef4444',
+  },
+  {
+    id: 'anime-jujutsu-kaisen',
+    malId: 40748,
+    title: 'Jujutsu Kaisen',
+    genre: 'Sobrenatural / Acción',
+    coverUrl: 'https://cdn.myanimelist.net/images/anime/1171/109222.jpg',
+    iconicSongOrStyle: 'Kaikai Kitan • Specialz (Darksynth + Trap-Rock)',
+    synopsis: 'Hechiceros combaten maldiciones letales en Tokio moderno.',
+    color: '#3b82f6',
+  },
+  {
+    id: 'anime-aot',
+    malId: 16498,
+    title: 'Attack on Titan',
+    genre: 'Fantasía Oscura / Bélico',
+    coverUrl: 'https://cdn.myanimelist.net/images/anime/10/47347.jpg',
+    iconicSongOrStyle: 'Guren no Yumiya • The Rumbling (Metal Sinfónico)',
+    synopsis: 'La humanidad amurallada enfrenta titanes colosales.',
+    color: '#92400e',
+  },
+  {
+    id: 'anime-one-piece',
+    malId: 21,
+    title: 'One Piece',
+    genre: 'Aventura / Piratas',
+    coverUrl: 'https://cdn.myanimelist.net/images/anime/6/73245.jpg',
+    iconicSongOrStyle: 'We Are! • Overtaken (Metales Festivos + Orquestal)',
+    synopsis: 'Luffy navega el Grand Line buscando el tesoro definitivo.',
+    color: '#f59e0b',
+  },
+  {
+    id: 'anime-solo-leveling',
+    malId: 52299,
+    title: 'Solo Leveling',
+    genre: 'Acción / Fantasía Oscura',
+    coverUrl: 'https://cdn.myanimelist.net/images/anime/1863/142269.jpg',
+    iconicSongOrStyle: 'LEveL • Dark Choirs (Electro-Industrial + K-Rock)',
+    synopsis: 'El cazador más débil despierta un poder de nivel infinito.',
+    color: '#7c3aed',
+  },
+  {
+    id: 'anime-naruto',
+    malId: 1735,
+    title: 'Naruto Shippuden',
+    genre: 'Ninja / Aventura',
+    coverUrl: 'https://cdn.myanimelist.net/images/anime/1565/111305.jpg',
+    iconicSongOrStyle: 'Blue Bird • Silhouette (Flauta Shamisen + Punk Rock)',
+    synopsis: 'Un ninja marginado busca ser Hokage y proteger su aldea.',
+    color: '#ea580c',
+  },
+  {
+    id: 'anime-chainsaw-man',
+    malId: 44511,
+    title: 'Chainsaw Man',
+    genre: 'Acción Caótica / Gore',
+    coverUrl: 'https://cdn.myanimelist.net/images/anime/1806/126216.jpg',
+    iconicSongOrStyle: 'Kick Back (Punk Hardcore + Funk Desquiciado)',
+    synopsis: 'Denji se fusiona con su perro demonio para ser el hombre motosierra.',
+    color: '#dc2626',
+  },
+  {
+    id: 'anime-death-note',
+    malId: 1535,
+    title: 'Death Note',
+    genre: 'Suspense / Sobrenatural',
+    coverUrl: 'https://cdn.myanimelist.net/images/anime/9/9453.jpg',
+    iconicSongOrStyle: 'The World • Alumina (Coros Gregorianos + Rock Gótico)',
+    synopsis: 'Un estudiante encuentra un cuaderno con el que puede matar escribiendo nombres.',
+    color: '#475569',
+  },
+  {
+    id: 'anime-evangelion',
+    malId: 30,
+    title: 'Evangelion',
+    genre: 'Mecha / Psicológico',
+    coverUrl: 'https://cdn.myanimelist.net/images/anime/1519/91876.jpg',
+    iconicSongOrStyle: 'A Cruel Angel Thesis (Eurobeat 90s + Brass Pop)',
+    synopsis: 'Adolescentes pilotan robots EVA para defender a la humanidad de los Ángeles.',
+    color: '#a855f7',
+  },
+  {
+    id: 'anime-bocchi',
+    malId: 47917,
+    title: 'Bocchi the Rock!',
+    genre: 'Música / Slice of Life',
+    coverUrl: 'https://cdn.myanimelist.net/images/anime/1864/120924.jpg',
+    iconicSongOrStyle: 'Seishun Complex (J-Rock Indie / Math-Rock Guitarras)',
+    synopsis: 'Una tímida virtuosa de guitarra se une a una banda de rock juvenil.',
+    color: '#ec4899',
+  },
+  {
+    id: 'anime-hxh',
+    malId: 11061,
+    title: 'Hunter x Hunter',
+    genre: 'Aventura / Estrategia',
+    coverUrl: 'https://cdn.myanimelist.net/images/anime/11/33657.jpg',
+    iconicSongOrStyle: 'Departure! (Pop Rock Épico con trompetas brillantes)',
+    synopsis: 'Gon emprende un peligroso viaje para encontrar a su padre Cazador.',
+    color: '#10b981',
+  },
+  {
+    id: 'anime-edgerunners',
+    malId: 42310,
+    title: 'Cyberpunk: Edgerunners',
+    genre: 'Sci-Fi / Synthwave',
+    coverUrl: 'https://cdn.myanimelist.net/images/anime/1818/126435.jpg',
+    iconicSongOrStyle: 'I Really Want to Stay at Your House (Indie Electropop)',
+    synopsis: 'David Martínez se convierte en mercenario cibernético en Night City.',
+    color: '#06b6d4',
+  },
+];

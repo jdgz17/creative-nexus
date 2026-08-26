@@ -1,0 +1,122 @@
+[
+  {
+    "id": "anime-demon-slayer",
+    "title": "Demon Slayer",
+    "anilistId": 101922,
+    "genre": "Acción / Shonen",
+    "iconicSongOrStyle": "Gurenge • Kamado Tanjiro no Uta (Rock + Orquestal Épico)",
+    "synopsis": "Tanjiro lucha contra demonios para curar a su hermana Nezuko usando el Aliento Solar.",
+    "color": "#ef4444",
+    "imageUrl": ""
+  },
+  {
+    "id": "anime-jujutsu-kaisen",
+    "title": "Jujutsu Kaisen",
+    "anilistId": 113415,
+    "genre": "Sobrenatural / Acción",
+    "iconicSongOrStyle": "Kaikai Kitan • Specialz (Darksynth + Trap-Rock Urbano)",
+    "synopsis": "Hechiceros modernos usan energía maldita para combatir maldiciones letales en Tokio.",
+    "color": "#3b82f6",
+    "imageUrl": ""
+  },
+  {
+    "id": "anime-aot",
+    "title": "Attack on Titan",
+    "anilistId": 16498,
+    "genre": "Fantasía Oscura / Bélico",
+    "iconicSongOrStyle": "Guren no Yumiya • The Rumbling (Metal Sinfónico Industrial)",
+    "synopsis": "La humanidad amurallada enfrenta titanes colosales en una lucha desesperada por sobrevivir.",
+    "color": "#92400e",
+    "imageUrl": ""
+  },
+  {
+    "id": "anime-one-piece",
+    "title": "One Piece",
+    "anilistId": 21,
+    "genre": "Aventura / Piratas",
+    "iconicSongOrStyle": "We Are! • Overtaken (Metales Festivos + Orquestal Aventurero)",
+    "synopsis": "Luffy y los Piratas del Sombrero de Paja navegan el Grand Line buscando el tesoro definitivo.",
+    "color": "#f59e0b",
+    "imageUrl": ""
+  },
+  {
+    "id": "anime-solo-leveling",
+    "title": "Solo Leveling",
+    "anilistId": 170942,
+    "genre": "Acción / Fantasía Oscura",
+    "iconicSongOrStyle": "LEveL • Dark Choirs (Electro-Industrial + K-Rock Pesado)",
+    "synopsis": "El cazador más débil de la humanidad despierta un poder de subida de nivel infinita.",
+    "color": "#7c3aed",
+    "imageUrl": ""
+  },
+  {
+    "id": "anime-naruto",
+    "title": "Naruto Shippuden",
+    "anilistId": 1735,
+    "genre": "Ninja / Aventura",
+    "iconicSongOrStyle": "Blue Bird • Silhouette (Flauta Shamisen + Punk Rock Energético)",
+    "synopsis": "Un joven ninja marginado busca el reconocimiento de su aldea y convertirse en Hokage.",
+    "color": "#ea580c",
+    "imageUrl": ""
+  },
+  {
+    "id": "anime-chainsaw-man",
+    "title": "Chainsaw Man",
+    "anilistId": 127230,
+    "genre": "Acción Caótica / Gore",
+    "iconicSongOrStyle": "Kick Back (Punk Hardcore + Funk Desquiciado y Caótico)",
+    "synopsis": "Denji se fusiona con su perro demonio Pochita para transformarse en el hombre motosierra.",
+    "color": "#dc2626",
+    "imageUrl": ""
+  },
+  {
+    "id": "anime-death-note",
+    "title": "Death Note",
+    "anilistId": 1535,
+    "genre": "Suspense / Sobrenatural",
+    "iconicSongOrStyle": "The World • Alumina (Coros Gregorianos + Rock Gótico Oscuro)",
+    "synopsis": "Un brillante estudiante encuentra un cuaderno con el que puede matar escribiendo nombres.",
+    "color": "#475569",
+    "imageUrl": ""
+  },
+  {
+    "id": "anime-evangelion",
+    "title": "Evangelion",
+    "anilistId": 30,
+    "genre": "Mecha / Psicológico",
+    "iconicSongOrStyle": "A Cruel Angel Thesis (Eurobeat 90s + Brass Pop Nostálgico)",
+    "synopsis": "Adolescentes pilotan robots EVA para defender a Tokio-3 del ataque de los Ángeles.",
+    "color": "#a855f7",
+    "imageUrl": ""
+  },
+  {
+    "id": "anime-bocchi",
+    "title": "Bocchi the Rock!",
+    "anilistId": 130003,
+    "genre": "Música / Slice of Life",
+    "iconicSongOrStyle": "Seishun Complex (J-Rock Indie / Math-Rock con Guitarras Limpias)",
+    "synopsis": "Una tímida virtuosa de guitarra se une a una banda de rock juvenil en Tokio.",
+    "color": "#ec4899",
+    "imageUrl": ""
+  },
+  {
+    "id": "anime-hxh",
+    "title": "Hunter x Hunter",
+    "anilistId": 11061,
+    "genre": "Aventura / Estrategia",
+    "iconicSongOrStyle": "Departure! (Pop Rock Épico de trompetas y baterías brillantes)",
+    "synopsis": "Gon emprende un peligroso viaje Nen para encontrar a su padre y convertirse en Cazador.",
+    "color": "#10b981",
+    "imageUrl": ""
+  },
+  {
+    "id": "anime-edgerunners",
+    "title": "Cyberpunk: Edgerunners",
+    "anilistId": 131595,
+    "genre": "Sci-Fi / Synthwave",
+    "iconicSongOrStyle": "I Really Want to Stay at Your House (Indie Electropop Emocional)",
+    "synopsis": "David Martínez se convierte en un mercenario cibernético en las calles de Night City.",
+    "color": "#06b6d4",
+    "imageUrl": ""
+  }
+]
