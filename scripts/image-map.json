@@ -1,0 +1,30 @@
+{
+  "anime": {
+    "demon-slayer": "/images/anime/demon-slayer.jpg",
+    "jujutsu-kaisen": "/images/anime/jujutsu-kaisen.jpg",
+    "attack-on-titan": "/images/anime/attack-on-titan.jpg",
+    "one-piece": "/images/anime/one-piece.jpg",
+    "solo-leveling": "/images/anime/solo-leveling.jpg",
+    "naruto-shippuden": "/images/anime/naruto-shippuden.png",
+    "chainsaw-man": "/images/anime/chainsaw-man.png",
+    "death-note": "/images/anime/death-note.jpg",
+    "evangelion": "/images/anime/evangelion.jpg",
+    "bocchi-the-rock": "/images/anime/bocchi-the-rock.png",
+    "hunter-x-hunter": "/images/anime/hunter-x-hunter.png",
+    "edgerunners": "/images/anime/edgerunners.jpg"
+  },
+  "musicians": {
+    "freddie-mercury": null,
+    "jimi-hendrix": null,
+    "david-bowie": "/images/musicians/david-bowie.jpg",
+    "billie-eilish": null,
+    "kurt-cobain": "/images/musicians/kurt-cobain.jpg",
+    "lady-gaga": null,
+    "michael-jackson": null,
+    "taylor-swift": null,
+    "kendrick-lamar": null,
+    "the-weeknd": null,
+    "prince": null,
+    "amy-winehouse": null
+  }
+}
